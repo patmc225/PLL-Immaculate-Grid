@@ -1040,7 +1040,7 @@ function Daily() {
       else string += "⬜️"
       if(i === 7 || i === 11) string += "\n"
     }
-    const textToCopy = "🥍 PLL Immaculate Grid #" + gridCount +  ": " + score + "-9:\n" + "Rarity: " + Math.round(rarity) + "\n" + string + "\nPlay at:\nhttps://premier-lacrosse-league.github.io/Immaculate-Grid/";
+    const textToCopy = "🥍 PLL Immaculate Grid #" + gridCount +  ": " + score + "-9:\n" + "Rarity: " + Math.round(rarity) + "\n" + string + "\nPlay at:\nhttps://patmc225.github.io/PLL-Immaculate-Grid/";
     
     try {
       await navigator.clipboard.writeText(textToCopy);
@@ -1090,7 +1090,7 @@ function Daily() {
                 #{gridCount}
               </Typography>
 
-              <Link  to="/Immaculate-Grid/Unlimited" style = {{fontSize: '10px', color: '#90caf9'}}>Unlimited<br></br>Mode</Link>
+              <Link  to="/PLL-Immaculate-Grid/Unlimited" style = {{fontSize: '10px', color: '#90caf9'}}>Unlimited<br></br>Mode</Link>
             </Box>
 
             {/* Grid container */}

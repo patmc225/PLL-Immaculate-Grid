@@ -5,8 +5,8 @@ import Unlimited from './Unlimited';
 
 import ReactGA from "react-ga4";
 ReactGA.initialize("G-HYTBWB2736");
-ReactGA.send({ hitType: "pageview", page: "/Immaculate-Grid", title: "Daily" });
-ReactGA.send({ hitType: "pageview", page: "/Immaculate-Grid/Unlimited", title: "Unlimited" });
+ReactGA.send({ hitType: "pageview", page: "/PLL-Immaculate-Grid", title: "Daily" });
+ReactGA.send({ hitType: "pageview", page: "/PLL-Immaculate-Grid/Unlimited", title: "Unlimited" });
 
 const App = () => {
   return (
@@ -14,8 +14,8 @@ const App = () => {
       
       <div style={{ minHeight: '100vh', display: 'flex', flexDirection: 'column', justifyContent: 'space-between' }}>
         <Routes style={{ flexGrow: 1 }}>
-          <Route path="/Immaculate-Grid/Unlimited" element={<Unlimited />} />
-          <Route path="/Immaculate-Grid" element={<Daily />} /> {/* Default route */}
+          <Route path="/PLL-Immaculate-Grid/Unlimited" element={<Unlimited />} />
+          <Route path="/PLL-Immaculate-Grid" element={<Daily />} /> {/* Default route */}
         </Routes>    
       </div>
     </Router>

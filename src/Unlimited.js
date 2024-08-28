@@ -1036,7 +1036,7 @@ function Unlimited() {
               <Button style={{fontSize:'10px'}} variant="contained" color="primary" onClick={handleGenerateClick}>
                 New Game
               </Button>
-              <Link  to="/Immaculate-Grid" style = {{fontSize: '10px', color: '#90caf9'}}>Daily<br></br>Mode</Link>
+              <Link  to="/PLL-Immaculate-Grid" style = {{fontSize: '10px', color: '#90caf9'}}>Daily<br></br>Mode</Link>
             </Box>
 
             {/* Grid container */}
