@@ -839,7 +839,7 @@ function Daily() {
 
     const formatter = new Intl.DateTimeFormat('en-US', {timeZone: 'America/New_York'});
     date = formatter.format(new Date())
-   //const date = "8/27/2024"
+   //const date = "8/28/2024"
     console.log(date)
     gridCount = json.data[date].gridCount
     left = json.data[date].left
@@ -1085,7 +1085,7 @@ function Daily() {
             </Box>*/}
             
             <Box sx={{ display: 'flex', alignItems: 'center', gap: 2, marginBottom: .5, marginLeft: 2, marginTop: '75px' }}>
-              <Typography fontSize='12px'>PLL Immaculate Grid (BETA)</Typography>
+              <Typography fontSize='12px'>PLL Immaculate Grid</Typography>
               <Typography variant="contained">
                 #{gridCount}
               </Typography>

@@ -662,6 +662,19 @@
         "TALL"
       ],
       "gridCount": 61
+    },
+    "8/28/2024": {
+      "left": [
+        "Cannons",
+        "CHA",
+        "ATL"
+      ],
+      "top": [
+        "RED",
+        "OUT",
+        "careerGoals"
+      ],
+      "gridCount": 62
     }
   }
 }
