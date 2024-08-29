@@ -675,6 +675,84 @@
         "careerGoals"
       ],
       "gridCount": 62
+    },
+    "8/29/2024": {
+      "left": [
+        "WHP",
+        "Cannons",
+        "OUT"
+      ],
+      "top": [
+        "CHA",
+        "WAT",
+        "BAY"
+      ],
+      "gridCount": 63
+    },
+    "8/30/2024": {
+      "left": [
+        "ATL",
+        "CHA",
+        "Cannons"
+      ],
+      "top": [
+        "WHP",
+        "RED",
+        "Loyola"
+      ],
+      "gridCount": 64
+    },
+    "8/31/2024": {
+      "left": [
+        "OUT",
+        "WHP",
+        "CHA"
+      ],
+      "top": [
+        "RED",
+        "careerGB",
+        "careerSaves"
+      ],
+      "gridCount": 65
+    },
+    "9/1/2024": {
+      "left": [
+        "ATL",
+        "WAT",
+        "CHA"
+      ],
+      "top": [
+        "RAT",
+        "CAN",
+        "USA"
+      ],
+      "gridCount": 66
+    },
+    "9/2/2024": {
+      "left": [
+        "ATL",
+        "Cannons",
+        "RED"
+      ],
+      "top": [
+        "WAT",
+        "careerAssists",
+        "seasonAssists"
+      ],
+      "gridCount": 67
+    },
+    "9/3/2024": {
+      "left": [
+        "CHA",
+        "ATL",
+        "WAT"
+      ],
+      "top": [
+        "RED",
+        "champ",
+        "seasonPoints"
+      ],
+      "gridCount": 68
     }
   }
 }

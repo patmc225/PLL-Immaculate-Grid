@@ -3,13 +3,13 @@ const fs = require('fs');
 let json = require('./src/data.json');
 let data =  require('./src/final.json');
 
-const prevDate = '8/27/2024'
-const date = '8/28/2024'
+const prevDate = '9/2/2024'
+const date = '9/3/2024'
 
 let p = {};
 for (let name in data) {
     const link = 'https://premierlacrosseleague.com/player/' + name.replace(" ","-");
-    const info = [data[name].team, data[name].year, data[name].sp, data[name].cp, data[name].sgb, data[name].cgb, data[name].ssv, data[name].csv, data[name].one, data[name].draft, data[name].tall, data[name].short, data[name].lefty, data[name].position, data[name].college, data[name].country, data[name].picture,link];
+    const info = [data[name].team, data[name].year, data[name].seasonPoints, data[name].careerPoints, data[name].seasonGoals, data[name].careerGoals,data[name].seasonGB,data[name].careerGB,data[name].seasonCT,data[name].careerCT,data[name].seasonSaves, data[name].careerSaves, data[name].careerGames, data[name].careerTwos ,data[name].seasonAssists, data[name].careerAssists,data[name].profileUrl, link, data[name].undrafted, data[name].top20, data[name].top10, data[name].top5,data[name].top1, data[name].star,data[name].star5,data[name].mvp,data[name].champ,data[name].allpro,data[name].opoy,data[name].dpoy,data[name].roy,data[name].one, data[name].tall, data[name].short, data[name].handedness, data[name].position, data[name].college, data[name].countryCode];
     p[name] = info;
   }
 
@@ -96,7 +96,7 @@ const generate = () => {
 
     for (let i = 0; i < 3; i++) {
         for (let j = 0; j < 3; j++) {
-            if(bigCheck(p,left[i],top[j]).length<3)
+            if(bigCheck(p,left[i],top[j]).length<2)
             {
                 count++
                 if(count<1000) generate(); 
