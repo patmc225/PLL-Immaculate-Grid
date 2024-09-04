@@ -766,6 +766,97 @@
         "Duke"
       ],
       "gridCount": 69
+    },
+    "9/5/2024": {
+      "left": [
+        "Cannons",
+        "WAT",
+        "OUT"
+      ],
+      "top": [
+        "ATL",
+        "CHA",
+        "Virginia"
+      ],
+      "gridCount": 70
+    },
+    "9/6/2024": {
+      "left": [
+        "Cannons",
+        "WHP",
+        "OUT"
+      ],
+      "top": [
+        "WAT",
+        "HND",
+        "careerCT"
+      ],
+      "gridCount": 71
+    },
+    "9/7/2024": {
+      "left": [
+        "CHA",
+        "Cannons",
+        "ATL"
+      ],
+      "top": [
+        "OUT",
+        "BAY",
+        "careerGB"
+      ],
+      "gridCount": 72
+    },
+    "9/8/2024": {
+      "left": [
+        "CHA",
+        "RED",
+        "OUT"
+      ],
+      "top": [
+        "WAT",
+        "seasonGoals",
+        "star"
+      ],
+      "gridCount": 73
+    },
+    "9/9/2024": {
+      "left": [
+        "OUT",
+        "WHP",
+        "ATL"
+      ],
+      "top": [
+        "BLZ",
+        "One",
+        "careerAssists"
+      ],
+      "gridCount": 74
+    },
+    "9/10/2024": {
+      "left": [
+        "WAT",
+        "WHP",
+        "Cannons"
+      ],
+      "top": [
+        "BAY",
+        "star",
+        "seasonGB"
+      ],
+      "gridCount": 75
+    },
+    "9/11/2024": {
+      "left": [
+        "RED",
+        "WAT",
+        "ATL"
+      ],
+      "top": [
+        "WHP",
+        "star",
+        "allpro"
+      ],
+      "gridCount": 76
     }
   }
 }
