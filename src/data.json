@@ -796,13 +796,13 @@
     "9/7/2024": {
       "left": [
         "CHA",
-        "Cannons",
-        "ATL"
+        "WHP",
+        "mvp"
       ],
       "top": [
-        "OUT",
-        "BAY",
-        "careerGB"
+        "ARC",
+        "ATL",
+        "champ"
       ],
       "gridCount": 72
     },
