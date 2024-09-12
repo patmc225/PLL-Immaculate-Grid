@@ -857,6 +857,97 @@
         "allpro"
       ],
       "gridCount": 76
+    },
+    "9/12/2024": {
+      "left": [
+        "ATL",
+        "OUT",
+        "RED"
+      ],
+      "top": [
+        "CHA",
+        "NYL",
+        "seasonAssists"
+      ],
+      "gridCount": 77
+    },
+    "9/13/2024": {
+      "left": [
+        "CHA",
+        "Cannons",
+        "OUT"
+      ],
+      "top": [
+        "WHP",
+        "mvp",
+        "careerTwos"
+      ],
+      "gridCount": 78
+    },
+    "9/14/2024": {
+      "left": [
+        "RED",
+        "Cannons",
+        "WHP"
+      ],
+      "top": [
+        "OUT",
+        "Maryland",
+        "careerGB"
+      ],
+      "gridCount": 79
+    },
+    "9/15/2024": {
+      "left": [
+        "WAT",
+        "ATL",
+        "RED"
+      ],
+      "top": [
+        "BAY",
+        "seasonGB",
+        "SHORT"
+      ],
+      "gridCount": 80
+    },
+    "9/16/2024": {
+      "left": [
+        "ATL",
+        "Cannons",
+        "CHA"
+      ],
+      "top": [
+        "BLZ",
+        "BAY",
+        "seasonGB"
+      ],
+      "gridCount": 81
+    },
+    "9/17/2024": {
+      "left": [
+        "ATL",
+        "OUT",
+        "WHP"
+      ],
+      "top": [
+        "MAC",
+        "NYL",
+        "careerCT"
+      ],
+      "gridCount": 82
+    },
+    "9/18/2024": {
+      "left": [
+        "WHP",
+        "ATL",
+        "OUT"
+      ],
+      "top": [
+        "WAT",
+        "SHORT",
+        "One"
+      ],
+      "gridCount": 83
     }
   }
 }
