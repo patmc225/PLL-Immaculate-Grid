@@ -948,6 +948,97 @@
         "One"
       ],
       "gridCount": 83
+    },
+    "9/19/2024": {
+      "left": [
+        "Cannons",
+        "ATL",
+        "WAT"
+      ],
+      "top": [
+        "CHR",
+        "NYL",
+        "Virginia"
+      ],
+      "gridCount": 84
+    },
+    "9/20/2024": {
+      "left": [
+        "RED",
+        "OUT",
+        "ARC"
+      ],
+      "top": [
+        "CHA",
+        "WAT",
+        "careerPoints"
+      ],
+      "gridCount": 85
+    },
+    "9/21/2024": {
+      "left": [
+        "RED",
+        "OUT",
+        "Cannons"
+      ],
+      "top": [
+        "Brown",
+        "One",
+        "careerCT"
+      ],
+      "gridCount": 86
+    },
+    "9/22/2024": {
+      "left": [
+        "ATL",
+        "RED",
+        "OUT"
+      ],
+      "top": [
+        "WAT",
+        "seasonPoints",
+        "careerPoints"
+      ],
+      "gridCount": 87
+    },
+    "9/23/2024": {
+      "left": [
+        "ATL",
+        "ARC",
+        "CHA"
+      ],
+      "top": [
+        "WAT",
+        "LAU",
+        "Cannons"
+      ],
+      "gridCount": 88
+    },
+    "9/24/2024": {
+      "left": [
+        "ATL",
+        "RED",
+        "CHA"
+      ],
+      "top": [
+        "Duke",
+        "CAN",
+        "One"
+      ],
+      "gridCount": 89
+    },
+    "9/25/2024": {
+      "left": [
+        "WAT",
+        "RED",
+        "Cannons"
+      ],
+      "top": [
+        "OUT",
+        "CHA",
+        "TALL"
+      ],
+      "gridCount": 90
     }
   }
 }
