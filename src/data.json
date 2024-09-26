@@ -1035,10 +1035,101 @@
       ],
       "top": [
         "WAT",
-        "LAU",
-        "Cannons"
+        "Cannons",
+        "LAU"
       ],
       "gridCount": 90
+    },
+    "9/26/2024": {
+      "left": [
+        "ARC",
+        "WHP",
+        "Cannons"
+      ],
+      "top": [
+        "Ohio State",
+        "seasonAssists",
+        "careerCT"
+      ],
+      "gridCount": 91
+    },
+    "9/27/2024": {
+      "left": [
+        "CHA",
+        "RED",
+        "ATL"
+      ],
+      "top": [
+        "OUT",
+        "WAT",
+        "careerCT"
+      ],
+      "gridCount": 92
+    },
+    "9/28/2024": {
+      "left": [
+        "WAT",
+        "WHP",
+        "RED"
+      ],
+      "top": [
+        "OUT",
+        "ATL",
+        "seasonGoals"
+      ],
+      "gridCount": 93
+    },
+    "9/29/2024": {
+      "left": [
+        "Cannons",
+        "ARC",
+        "RED"
+      ],
+      "top": [
+        "BLZ",
+        "careerTwos",
+        "careerAssists"
+      ],
+      "gridCount": 94
+    },
+    "9/30/2024": {
+      "left": [
+        "ATL",
+        "CHA",
+        "OUT"
+      ],
+      "top": [
+        "CAN",
+        "RED",
+        "SHORT"
+      ],
+      "gridCount": 95
+    },
+    "10/1/2024": {
+      "left": [
+        "OUT",
+        "WHP",
+        "ATL"
+      ],
+      "top": [
+        "Virginia",
+        "careerGB",
+        "star"
+      ],
+      "gridCount": 96
+    },
+    "10/2/2024": {
+      "left": [
+        "WAT",
+        "Cannons",
+        "ATL"
+      ],
+      "top": [
+        "USA",
+        "WHP",
+        "careerGoals"
+      ],
+      "gridCount": 97
     }
   }
 }
