@@ -1130,6 +1130,110 @@
         "careerGoals"
       ],
       "gridCount": 97
+    },
+    "10/3/2024": {
+      "left": [
+        "ARC",
+        "WHP",
+        "Cannons"
+      ],
+      "top": [
+        "MAC",
+        "careerPoints",
+        "careerAssists"
+      ],
+      "gridCount": 98
+    },
+    "10/4/2024": {
+      "left": [
+        "Cannons",
+        "ARC",
+        "WAT"
+      ],
+      "top": [
+        "OUT",
+        "NYL",
+        "seasonSaves"
+      ],
+      "gridCount": 99
+    },
+    "10/5/2024": {
+      "left": [
+        "OUT",
+        "ATL",
+        "Cannons"
+      ],
+      "top": [
+        "RED",
+        "CHA",
+        "careerGames"
+      ],
+      "gridCount": 100
+    },
+    "10/6/2024": {
+      "left": [
+        "ATL",
+        "WAT",
+        "Cannons"
+      ],
+      "top": [
+        "TALL",
+        "seasonPoints",
+        "SHORT"
+      ],
+      "gridCount": 101
+    },
+    "10/7/2024": {
+      "left": [
+        "WAT",
+        "Cannons",
+        "CHA"
+      ],
+      "top": [
+        "OUT",
+        "careerGB",
+        "careerSaves"
+      ],
+      "gridCount": 102
+    },
+    "10/8/2024": {
+      "left": [
+        "Cannons",
+        "WHP",
+        "ATL"
+      ],
+      "top": [
+        "Syracuse",
+        "careerTwos",
+        "seasonGB"
+      ],
+      "gridCount": 103
+    },
+    "10/9/2024": {
+      "left": [
+        "RED",
+        "Cannons",
+        "ATL"
+      ],
+      "top": [
+        "WAT",
+        "Notre Dame",
+        "Maryland"
+      ],
+      "gridCount": 104
+    },
+    "10/10/2024": {
+      "left": [
+        "ATL",
+        "CHA",
+        "RED"
+      ],
+      "top": [
+        "CAN",
+        "SHORT",
+        "careerCT"
+      ],
+      "gridCount": 105
     }
   }
 }
