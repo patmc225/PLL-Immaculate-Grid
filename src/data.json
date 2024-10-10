@@ -1234,6 +1234,97 @@
         "careerCT"
       ],
       "gridCount": 105
+    },
+    "10/11/2024": {
+      "left": [
+        "Cannons",
+        "RED",
+        "ATL"
+      ],
+      "top": [
+        "Notre Dame",
+        "Duke",
+        "careerPoints"
+      ],
+      "gridCount": 106
+    },
+    "10/12/2024": {
+      "left": [
+        "WHP",
+        "RED",
+        "ARC"
+      ],
+      "top": [
+        "CAN",
+        "careerAssists",
+        "star"
+      ],
+      "gridCount": 107
+    },
+    "10/13/2024": {
+      "left": [
+        "WAT",
+        "OUT",
+        "RED"
+      ],
+      "top": [
+        "ATL",
+        "ARC",
+        "seasonCT"
+      ],
+      "gridCount": 108
+    },
+    "10/14/2024": {
+      "left": [
+        "Cannons",
+        "ARC",
+        "ATL"
+      ],
+      "top": [
+        "WAT",
+        "USA",
+        "Virginia"
+      ],
+      "gridCount": 109
+    },
+    "10/15/2024": {
+      "left": [
+        "Cannons",
+        "RED",
+        "OUT"
+      ],
+      "top": [
+        "WAT",
+        "BLZ",
+        "seasonSaves"
+      ],
+      "gridCount": 110
+    },
+    "10/16/2024": {
+      "left": [
+        "WHP",
+        "WAT",
+        "ATL"
+      ],
+      "top": [
+        "Cannons",
+        "RAT",
+        "careerSaves"
+      ],
+      "gridCount": 111
+    },
+    "10/17/2024": {
+      "left": [
+        "ARC",
+        "CHA",
+        "Cannons"
+      ],
+      "top": [
+        "LAU",
+        "Loyola",
+        "careerCT"
+      ],
+      "gridCount": 112
     }
   }
 }
