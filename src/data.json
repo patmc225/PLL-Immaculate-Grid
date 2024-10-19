@@ -1325,6 +1325,175 @@
         "careerCT"
       ],
       "gridCount": 112
+    },
+    "10/18/2024": {
+      "left": [
+        "ARC",
+        "WHP",
+        "Cannons"
+      ],
+      "top": [
+        "seasonAssists",
+        "BAY",
+        "OUT"
+      ],
+      "gridCount": 113
+    },
+    "10/19/2024": {
+      "left": [
+        "CHA",
+        "OUT",
+        "WHP"
+      ],
+      "top": [
+        "Cannons",
+        "RAT",
+        "careerTwos"
+      ],
+      "gridCount": 114
+    },
+    "10/20/2024": {
+      "left": [
+        "ATL",
+        "WHP",
+        "CHA"
+      ],
+      "top": [
+        "WAT",
+        "RAT",
+        "HND"
+      ],
+      "gridCount": 115
+    },
+    "10/21/2024": {
+      "left": [
+        "Cannons",
+        "ARC",
+        "OUT"
+      ],
+      "top": [
+        "CHA",
+        "HND",
+        "careerTwos"
+      ],
+      "gridCount": 116
+    },
+    "10/22/2024": {
+      "left": [
+        "RED",
+        "ARC",
+        "WAT"
+      ],
+      "top": [
+        "BLZ",
+        "careerGames",
+        "seasonGoals"
+      ],
+      "gridCount": 117
+    },
+    "10/23/2024": {
+      "left": [
+        "WHP",
+        "ATL",
+        "CHA"
+      ],
+      "top": [
+        "WAT",
+        "RED",
+        "TALL"
+      ],
+      "gridCount": 118
+    },
+    "10/24/2024": {
+      "left": [
+        "WHP",
+        "CHA",
+        "OUT"
+      ],
+      "top": [
+        "seasonGB",
+        "careerPoints",
+        "careerTwos"
+      ],
+      "gridCount": 119
+    },
+    "10/25/2024": {
+      "left": [
+        "WHP",
+        "Cannons",
+        "WAT"
+      ],
+      "top": [
+        "ATL",
+        "BAY",
+        "USA"
+      ],
+      "gridCount": 120
+    },
+    "10/26/2024": {
+      "left": [
+        "ATL",
+        "WHP",
+        "OUT"
+      ],
+      "top": [
+        "WAT",
+        "MAC",
+        "careerGames"
+      ],
+      "gridCount": 121
+    },
+    "10/27/2024": {
+      "left": [
+        "OUT",
+        "WHP",
+        "RED"
+      ],
+      "top": [
+        "ATL",
+        "CHA",
+        "WAT"
+      ],
+      "gridCount": 122
+    },
+    "10/28/2024": {
+      "left": [
+        "ATL",
+        "ARC",
+        "RED"
+      ],
+      "top": [
+        "CHA",
+        "seasonCT",
+        "Johns Hopkins"
+      ],
+      "gridCount": 123
+    },
+    "10/29/2024": {
+      "left": [
+        "ARC",
+        "Cannons",
+        "WAT"
+      ],
+      "top": [
+        "OUT",
+        "NYL",
+        "careerTwos"
+      ],
+      "gridCount": 124
+    },
+    "10/30/2024": {
+      "left": [
+        "ATL",
+        "WAT",
+        "OUT"
+      ],
+      "top": [
+        "BLZ",
+        "HND",
+        "Lefty"
+      ],
+      "gridCount": 125
     }
   }
 }
