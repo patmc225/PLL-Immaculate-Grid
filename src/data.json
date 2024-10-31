@@ -1507,6 +1507,84 @@
         "SHORT"
       ],
       "gridCount": 126
+    },
+    "11/1/2024": {
+      "left": [
+        "ATL",
+        "Cannons",
+        "ARC"
+      ],
+      "top": [
+        "WAT",
+        "WHP",
+        "champ"
+      ],
+      "gridCount": 127
+    },
+    "11/2/2024": {
+      "left": [
+        "ATL",
+        "WAT",
+        "Cannons"
+      ],
+      "top": [
+        "WHP",
+        "OUT",
+        "careerCT"
+      ],
+      "gridCount": 128
+    },
+    "11/3/2024": {
+      "left": [
+        "RED",
+        "CHA",
+        "WAT"
+      ],
+      "top": [
+        "OUT",
+        "allpro",
+        "careerGB"
+      ],
+      "gridCount": 129
+    },
+    "11/4/2024": {
+      "left": [
+        "RED",
+        "WAT",
+        "Cannons"
+      ],
+      "top": [
+        "ATL",
+        "WHP",
+        "careerGoals"
+      ],
+      "gridCount": 130
+    },
+    "11/5/2024": {
+      "left": [
+        "WHP",
+        "ATL",
+        "Cannons"
+      ],
+      "top": [
+        "HND",
+        "seasonPoints",
+        "TALL"
+      ],
+      "gridCount": 131
+    },
+    "11/6/2024": {
+      "left": [
+        "CHA",
+        "Cannons",
+        "WHP"
+      ],
+      "top": [
+        "BLZ",
+        "allpro",
+        "TALL"
+      ],
+      "gridCount": 132
     }
   }
 }
