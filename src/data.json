@@ -1494,6 +1494,19 @@
         "Lefty"
       ],
       "gridCount": 125
+    },
+    "10/31/2024": {
+      "left": [
+        "ATL",
+        "CHA",
+        "ARC"
+      ],
+      "top": [
+        "OUT",
+        "Lefty",
+        "SHORT"
+      ],
+      "gridCount": 126
     }
   }
 }
