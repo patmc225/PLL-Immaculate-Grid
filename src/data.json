@@ -1585,6 +1585,97 @@
         "TALL"
       ],
       "gridCount": 132
+    },
+    "11/7/2024": {
+      "left": [
+        "WHP",
+        "Cannons",
+        "OUT"
+      ],
+      "top": [
+        "LAU",
+        "careerSaves",
+        "CHA"
+      ],
+      "gridCount": 133
+    },
+    "11/8/2024": {
+      "left": [
+        "CHA",
+        "WAT",
+        "WHP"
+      ],
+      "top": [
+        "star",
+        "allpro",
+        "TALL"
+      ],
+      "gridCount": 134
+    },
+    "11/9/2024": {
+      "left": [
+        "ATL",
+        "OUT",
+        "CHA"
+      ],
+      "top": [
+        "careerTwos",
+        "mvp",
+        "champ"
+      ],
+      "gridCount": 135
+    },
+    "11/10/2024": {
+      "left": [
+        "ATL",
+        "CHA",
+        "RED"
+      ],
+      "top": [
+        "WHP",
+        "WAT",
+        "Lefty"
+      ],
+      "gridCount": 136
+    },
+    "11/11/2024": {
+      "left": [
+        "OUT",
+        "Cannons",
+        "RED"
+      ],
+      "top": [
+        "LAU",
+        "SHORT",
+        "One"
+      ],
+      "gridCount": 137
+    },
+    "11/12/2024": {
+      "left": [
+        "RED",
+        "ATL",
+        "OUT"
+      ],
+      "top": [
+        "seasonAssists",
+        "careerCT",
+        "seasonPoints"
+      ],
+      "gridCount": 138
+    },
+    "11/13/2024": {
+      "left": [
+        "WAT",
+        "ARC",
+        "OUT"
+      ],
+      "top": [
+        "WHP",
+        "careerTwos",
+        "One"
+      ],
+      "gridCount": 139
     }
   }
 }
