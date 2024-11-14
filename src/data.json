@@ -1676,6 +1676,19 @@
         "One"
       ],
       "gridCount": 139
+    },
+    "11/14/2024": {
+      "left": [
+        "ATL",
+        "ARC",
+        "WAT"
+      ],
+      "top": [
+        "Cannons",
+        "BLZ",
+        "LAU"
+      ],
+      "gridCount": 140
     }
   }
 }
