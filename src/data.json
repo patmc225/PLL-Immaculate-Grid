@@ -1689,6 +1689,45 @@
         "LAU"
       ],
       "gridCount": 140
+    },
+    "11/15/2024": {
+      "left": [
+        "WAT",
+        "WHP",
+        "Cannons"
+      ],
+      "top": [
+        "ARC",
+        "careerTwos",
+        "seasonGoals"
+      ],
+      "gridCount": 141
+    },
+    "11/16/2024": {
+      "left": [
+        "CHA",
+        "Cannons",
+        "RED"
+      ],
+      "top": [
+        "LAU",
+        "Rutgers",
+        "careerGames"
+      ],
+      "gridCount": 142
+    },
+    "11/17/2024": {
+      "left": [
+        "RED",
+        "WAT",
+        "CHA"
+      ],
+      "top": [
+        "LAU",
+        "careerGoals",
+        "Lefty"
+      ],
+      "gridCount": 143
     }
   }
 }
