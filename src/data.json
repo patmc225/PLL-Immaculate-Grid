@@ -1728,6 +1728,188 @@
         "Lefty"
       ],
       "gridCount": 143
+    },
+    "11/18/2024": {
+      "left": [
+        "RED",
+        "CHA",
+        "OUT"
+      ],
+      "top": [
+        "Cannons",
+        "WHP",
+        "star"
+      ],
+      "gridCount": 144
+    },
+    "11/19/2024": {
+      "left": [
+        "RED",
+        "CHA",
+        "WAT"
+      ],
+      "top": [
+        "WHP",
+        "SHORT",
+        "seasonSaves"
+      ],
+      "gridCount": 145
+    },
+    "11/20/2024": {
+      "left": [
+        "WAT",
+        "OUT",
+        "RED"
+      ],
+      "top": [
+        "careerCT",
+        "seasonGB",
+        "champ"
+      ],
+      "gridCount": 146
+    },
+    "11/21/2024": {
+      "left": [
+        "Cannons",
+        "ATL",
+        "WHP"
+      ],
+      "top": [
+        "careerAssists",
+        "Lefty",
+        "star5"
+      ],
+      "gridCount": 147
+    },
+    "11/22/2024": {
+      "left": [
+        "WHP",
+        "RED",
+        "ATL"
+      ],
+      "top": [
+        "Cannons",
+        "careerGoals",
+        "careerGames"
+      ],
+      "gridCount": 148
+    },
+    "11/23/2024": {
+      "left": [
+        "WHP",
+        "RED",
+        "ATL"
+      ],
+      "top": [
+        "Cannons",
+        "WAT",
+        "CHR"
+      ],
+      "gridCount": 149
+    },
+    "11/24/2024": {
+      "left": [
+        "Cannons",
+        "RED",
+        "OUT"
+      ],
+      "top": [
+        "ATL",
+        "BAY",
+        "seasonPoints"
+      ],
+      "gridCount": 150
+    },
+    "11/25/2024": {
+      "left": [
+        "CHA",
+        "WAT",
+        "ARC"
+      ],
+      "top": [
+        "Cannons",
+        "seasonCT",
+        "careerGB"
+      ],
+      "gridCount": 151
+    },
+    "11/26/2024": {
+      "left": [
+        "Cannons",
+        "OUT",
+        "RED"
+      ],
+      "top": [
+        "Notre Dame",
+        "BLZ",
+        "seasonPoints"
+      ],
+      "gridCount": 152
+    },
+    "11/27/2024": {
+      "left": [
+        "Cannons",
+        "OUT",
+        "CHA"
+      ],
+      "top": [
+        "RED",
+        "seasonCT",
+        "careerTwos"
+      ],
+      "gridCount": 153
+    },
+    "11/28/2024": {
+      "left": [
+        "OUT",
+        "CHA",
+        "WAT"
+      ],
+      "top": [
+        "ARC",
+        "Cannons",
+        "champ"
+      ],
+      "gridCount": 154
+    },
+    "11/29/2024": {
+      "left": [
+        "CHA",
+        "ATL",
+        "Cannons"
+      ],
+      "top": [
+        "WHP",
+        "seasonPoints",
+        "SHORT"
+      ],
+      "gridCount": 155
+    },
+    "11/30/2024": {
+      "left": [
+        "Cannons",
+        "ATL",
+        "OUT"
+      ],
+      "top": [
+        "NAT",
+        "star5",
+        "Lefty"
+      ],
+      "gridCount": 156
+    },
+    "12/1/2024": {
+      "left": [
+        "OUT",
+        "ATL",
+        "CHA"
+      ],
+      "top": [
+        "WAT",
+        "LAU",
+        "seasonGB"
+      ],
+      "gridCount": 157
     }
   }
 }
