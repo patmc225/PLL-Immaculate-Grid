@@ -1910,6 +1910,97 @@
         "seasonGB"
       ],
       "gridCount": 157
+    },
+    "12/2/2024": {
+      "left": [
+        "WAT",
+        "ARC",
+        "WHP"
+      ],
+      "top": [
+        "NYL",
+        "USA",
+        "allpro"
+      ],
+      "gridCount": 158
+    },
+    "12/3/2024": {
+      "left": [
+        "WHP",
+        "CHA",
+        "WAT"
+      ],
+      "top": [
+        "careerGB",
+        "careerGames",
+        "careerCT"
+      ],
+      "gridCount": 159
+    },
+    "12/4/2024": {
+      "left": [
+        "WHP",
+        "WAT",
+        "RED"
+      ],
+      "top": [
+        "CHR",
+        "ATL",
+        "careerGames"
+      ],
+      "gridCount": 160
+    },
+    "12/5/2024": {
+      "left": [
+        "ATL",
+        "ARC",
+        "RED"
+      ],
+      "top": [
+        "CHA",
+        "careerGB",
+        "seasonCT"
+      ],
+      "gridCount": 161
+    },
+    "12/6/2024": {
+      "left": [
+        "ARC",
+        "CHA",
+        "WAT"
+      ],
+      "top": [
+        "OUT",
+        "seasonPoints",
+        "Lefty"
+      ],
+      "gridCount": 162
+    },
+    "12/7/2024": {
+      "left": [
+        "Cannons",
+        "CHA",
+        "WAT"
+      ],
+      "top": [
+        "BLZ",
+        "BAY",
+        "seasonGoals"
+      ],
+      "gridCount": 163
+    },
+    "12/8/2024": {
+      "left": [
+        "Cannons",
+        "WHP",
+        "RED"
+      ],
+      "top": [
+        "seasonPoints",
+        "star",
+        "allpro"
+      ],
+      "gridCount": 164
     }
   }
 }
