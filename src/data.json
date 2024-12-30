@@ -2183,6 +2183,201 @@
         "seasonAssists"
       ],
       "gridCount": 178
+    },
+    "12/29/2024": {
+      "left": [
+        "CHA",
+        "ATL",
+        "OUT"
+      ],
+      "top": [
+        "Lefty",
+        "WHP",
+        "USA"
+      ],
+      "gridCount": 178
+    },
+    "12/30/2024": {
+      "left": [
+        "WAT",
+        "ATL",
+        "RED"
+      ],
+      "top": [
+        "CHR",
+        "Maryland",
+        "seasonGoals"
+      ],
+      "gridCount": 179
+    },
+    "12/31/2024": {
+      "left": [
+        "OUT",
+        "RED",
+        "ATL"
+      ],
+      "top": [
+        "careerGames",
+        "champ",
+        "MAC"
+      ],
+      "gridCount": 180
+    },
+    "1/1/2024": {
+      "left": [
+        "RED",
+        "ARC",
+        "ATL"
+      ],
+      "top": [
+        "seasonAssists",
+        "CHA",
+        "RAT"
+      ],
+      "gridCount": 181
+    },
+    "1/2/2024": {
+      "left": [
+        "WAT",
+        "OUT",
+        "ARC"
+      ],
+      "top": [
+        "seasonGB",
+        "HND",
+        "NYL"
+      ],
+      "gridCount": 182
+    },
+    "1/3/2024": {
+      "left": [
+        "OUT",
+        "WAT",
+        "WHP"
+      ],
+      "top": [
+        "TALL",
+        "RED",
+        "careerPoints"
+      ],
+      "gridCount": 183
+    },
+    "1/4/2024": {
+      "left": [
+        "ATL",
+        "ARC",
+        "OUT"
+      ],
+      "top": [
+        "Cannons",
+        "WHP",
+        "MAC"
+      ],
+      "gridCount": 184
+    },
+    "1/5/2024": {
+      "left": [
+        "WAT",
+        "RED",
+        "Cannons"
+      ],
+      "top": [
+        "ATL",
+        "SHORT",
+        "WHP"
+      ],
+      "gridCount": 185
+    },
+    "1/6/2024": {
+      "left": [
+        "OUT",
+        "RED",
+        "WHP"
+      ],
+      "top": [
+        "seasonSaves",
+        "CHA",
+        "BAY"
+      ],
+      "gridCount": 186
+    },
+    "1/7/2024": {
+      "left": [
+        "RED",
+        "ARC",
+        "OUT"
+      ],
+      "top": [
+        "SHORT",
+        "careerPoints",
+        "champ"
+      ],
+      "gridCount": 187
+    },
+    "1/8/2024": {
+      "left": [
+        "WHP",
+        "CHA",
+        "WAT"
+      ],
+      "top": [
+        "ATL",
+        "TALL",
+        "seasonPoints"
+      ],
+      "gridCount": 188
+    },
+    "1/9/2024": {
+      "left": [
+        "CHA",
+        "ARC",
+        "Cannons"
+      ],
+      "top": [
+        "BLZ",
+        "OUT",
+        "WHP"
+      ],
+      "gridCount": 189
+    },
+    "1/10/2024": {
+      "left": [
+        "RED",
+        "WHP",
+        "WAT"
+      ],
+      "top": [
+        "Maryland",
+        "careerTwos",
+        "One"
+      ],
+      "gridCount": 190
+    },
+    "1/11/2024": {
+      "left": [
+        "CHA",
+        "ATL",
+        "WHP"
+      ],
+      "top": [
+        "star",
+        "Cannons",
+        "Syracuse"
+      ],
+      "gridCount": 191
+    },
+    "1/12/2024": {
+      "left": [
+        "OUT",
+        "ARC",
+        "RED"
+      ],
+      "top": [
+        "LAU",
+        "seasonCT",
+        "CHR"
+      ],
+      "gridCount": 192
     }
   }
 }
