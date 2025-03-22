@@ -2794,6 +2794,19 @@
         "seasonGB"
       ],
       "gridCount": 224
+    },
+    "3/22/2025": {
+      "left": [
+        "WHP",
+        "ARC",
+        "RED"
+      ],
+      "top": [
+        "TALL",
+        "OUT",
+        "CHA"
+      ],
+      "gridCount": 225
     }
   }
 }
