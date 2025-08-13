@@ -1,8 +1,7 @@
-# .github/workflows/pages.yml  (or deploy-gh-pages.yml)
 name: Deploy to GitHub Pages
 on:
   push:
-    branches: [ production ]   # or main
+    branches: [ production ]   # change to main if that's your branch
 permissions:
   contents: read
   pages: write
@@ -14,21 +13,17 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
-        with: { node-version: 20 }
+        with:
+          node-version: 20
       - run: npm ci
-      # optional: silence the Browserslist warning (doesn't affect build)
       - run: npx update-browserslist-db@latest || true
-      # ✅ key line: don't fail on warnings (pick ONE of the two lines below)
       - run: CI=false npm run build
-      # - run: DISABLE_ESLINT_PLUGIN=true npm run build
-
       - uses: actions/upload-pages-artifact@v3
-        with: { path: ./build }
+        with:
+          path: ./build
 
   deploy:
     needs: build
     runs-on: ubuntu-latest
-    environment: { name: github-pages, url: ${{ steps.deployment.outputs.page_url }} }
     steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+      - uses: actions/deploy-pages@v4
