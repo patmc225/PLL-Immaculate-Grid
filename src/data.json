@@ -4656,27 +4656,27 @@
     },
     "8/12/2025": {
       "left": [
-        "WAT",
-        "Cannons",
-        "WHP"
+        "ATL",
+        "WHP",
+        "Cannons"
       ],
       "top": [
-        "seasonPoints",
-        "RAT",
-        "One"
+        "Virginia",
+        "Bayhawks",
+        "roy"
       ],
       "gridCount": 369
     },
     "8/13/2025": {
       "left": [
-        "CHA",
-        "Cannons",
-        "ATL"
+        "ATL",
+        "WHP",
+        "Cannons"
       ],
       "top": [
-        "LAU",
-        "One",
-        "RED"
+        "Virginia",
+        "Bayhawks",
+        "roy"
       ],
       "gridCount": 370
     },
